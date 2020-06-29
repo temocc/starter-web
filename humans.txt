@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    temoc -- temoc -- <twitter>
 
 # THANKS
 
