@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Proposito
+Proposito, cambios
 
 ## How To Contribute
 Fork and then issue Pull Request
